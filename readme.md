@@ -1,5 +1,8 @@
 ## Data Model
 
-Link to students table data model <br>
+## Dataset Used
+This dataset shows the number of teachers per county in kenya. It has been extracted from the Ministry of Educations' - Basic Education Statistical Booklet which captures national statistics for the Education Sector in totality.
 
-Link: https://drive.google.com/file/d/1hEW0KQh183N85u_W4Q24YFsnrZMhBEDO/view?usp=sharing
+**More info** <br>
+1. [Original Data Source](https://data.world/kenya-open-data/0fad131a-794f-43ba-96c6-c651ac3fa571)
+2. [Data Dictionary ](https://data.world/kenya-open-data/0fad131a-794f-43ba-96c6-c651ac3fa571/workspace/data-dictionary)
