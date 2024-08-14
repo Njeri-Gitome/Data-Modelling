@@ -26,7 +26,7 @@ This dataset shows the number of teachers per county in kenya. It has been extra
     - _psql_: Command-line interface for PostgreSQL.
     - _pgAdmin_: GUI tool for managing PostgreSQL databases.
 
-## Technolgy Used
+## Technology Used
 1. **Programming Language**: Python
 2. **Scripting Language**: SQL
 3. **Database**: PostgreSQL
