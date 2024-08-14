@@ -1,5 +1,5 @@
 ## Introduction
-The goal of this project is to create a comprehensive data model using draw.io, and Python to extract data from CSV file and loadinf it into a PostgreSQL database. The project uses SQL to create schemas and handle data in an effort to create a structured database that makes data access and analysis more effective.
+The goal of this project is to create a comprehensive data model using draw.io, and Python to extract data from CSV file and load it into a PostgreSQL database. The project uses SQL to create schemas and handle data in an effort to create a structured database that makes data access and analysis more effective.
 
 ## Data Model
 !["Education Data Model.jpg"](https://github.com/Njeri-Gitome/Data-Modelling/blob/main/Education%20Data%20Model.jpg)
