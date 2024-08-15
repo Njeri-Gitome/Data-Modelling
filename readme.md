@@ -4,6 +4,9 @@
 - Use SQL for schema creation and data management.
 - Develop a structured database to enhance data access and analysis.
 
+## Technical Article
+[Understanding Data Modeling](https://gracegitome.hashnode.dev/understanding-data-modeling)
+
 ## Data Model
 !["Education Data Model.jpg"](https://github.com/Njeri-Gitome/Data-Modelling/blob/main/Education%20Data%20Model.jpg)
 
@@ -34,3 +37,5 @@ This dataset shows the number of teachers per county in kenya. It has been extra
 
 ## Source Code
 [DataModel.ipynb](https://github.com/Njeri-Gitome/Data-Modelling/blob/main/DataModel.ipynb)
+
+
